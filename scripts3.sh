@@ -13,4 +13,4 @@ for x in add commit push
 do 
 	echo "A commonly used git command is $x" 
 done 
-The changes look good,the script is running correctly now 
+
