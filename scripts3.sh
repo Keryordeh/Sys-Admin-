@@ -1,8 +1,10 @@
 #!/bin/bash 
 #For/Loop
 #Original
- 
-for i in 123 
+
+#You need to add space between numbers 
+
+for i in 1 2 3 
 do 
 	echo "Welcome $i times" 
 done 
